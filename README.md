@@ -1,2 +1,5 @@
-# misc-utils
- Miscellaneous utilities
+# Miscellaneous Utilities
+
+## Binaries
+* pbcopy & pbpaste for WSL
+

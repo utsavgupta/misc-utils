@@ -1,0 +1,4 @@
+#!/bin/zsh
+tee <&0 | clip.exe
+return 0
+
